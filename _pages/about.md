@@ -41,7 +41,7 @@ redirect_from:
 - 雅思（备考中，预计2026年4月考试）
 - C、Python、C++、Matlab
 
-
+<br><br>
 
 <span class='anchor' id='-zxkc'></span>
 
@@ -56,6 +56,8 @@ redirect_from:
 - 大二上学期（2024.9~2025.1）
 - 大二下学期（2025.2~2025.6）
 - 大三上学期（2025.9~2026.2）
+
+<br><br>
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -91,6 +93,8 @@ redirect_from:
 - *2025.07* 获得 深圳科创学院 `明星助教`
 - *2024.01* 获得 宁波XPotPark智能研究院冬令营 `优秀营员`
 
+<br><br>
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
@@ -118,8 +122,7 @@ redirect_from:
 - 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
 
 
-
-
+<br><br>
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -128,13 +131,14 @@ redirect_from:
 - *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳
 - *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州
 
-
 <!-- <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
+
+<br><br>
 
 <span class='anchor' id='-xmjl'></span>
 

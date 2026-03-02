@@ -30,9 +30,10 @@ redirect_from:
 - 机械建模（Fusion360，Solidworks，加工装配等）
 - PCB设计（立创EDA，元器件选型，焊接与测试等）
 - 嵌入式开发（Keilv5+STM32CubeMX，标准库与HAL库）
+- ROS（Rviz，Gazebo，Mojoco）
 - 物理与机械仿真（Matlab，ADMAS，Unity）
 - UI界面与小程序制作（Matlab，微信）
-- 视频剪辑（剪映）
+- 视频剪辑（剪映，Photoshop）
   
 
 ## 我的语言包括：
@@ -51,11 +52,11 @@ redirect_from:
 - 自动控制原理、微电路设计、人因工效学、数理综合、线性代数、概率论与数理统计、工程原理、工程设计、定量工程设计方法、机器人基础、自然与设计、产品设计、程序设计、个性化实践
 
 ### 个性化实践：
+- 大三上学期（2025.9~2026.2） [[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report3A.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT3A.pptx)
+- 大二下学期（2025.2~2025.6）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report2B.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT2B.pptx)
+- 大二上学期（2024.9~2025.1）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report2A.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT2A.pptx)
+- 大一下学期（2024.2~2024.6）[[报告]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\Report1B.pdf) [[答辩]](F:\AlexProfile\Chinese\Alexhbw\recources\gxhsj\PPT1B.pptx)
 - 大一上学期（2023.9~2024.1）
-- 大一下学期（2024.2~2024.6）
-- 大二上学期（2024.9~2025.1）
-- 大二下学期（2025.2~2025.6）
-- 大三上学期（2025.9~2026.2）
 
 <br><br>
 
@@ -105,7 +106,7 @@ redirect_from:
 ### 英文
 ---
 -	Jingquan Hong, `Bowen Hao`, Huaicheng He, Chen Tang. Heart Rate Detection System Based on ADS1292 Module. 2025 6th International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2025. DOI: 10.1109/ICCEIC67916.2025.11309043.
-[[网页]](https://ieeexplore.ieee.org/abstract/document/11309043) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/11309043) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 ### 中文
 ---

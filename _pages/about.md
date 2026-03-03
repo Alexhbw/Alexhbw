@@ -177,7 +177,11 @@ redirect_from:
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🤖 重庆大学Robomaster千里战队 - 英雄机器人结构设计
+
 **项目简介**：作为英雄组机械设计了25赛季英雄机器人底盘、云台与测试弹舱
 
 **主要职责**：
@@ -191,10 +195,19 @@ redirect_from:
 
 **相关资料**：
 [[撑杆履带向底盘]](recources/project/RM/%e6%92%91%e6%9d%86%e5%b1%a5%e5%b8%a6%e5%90%91%e5%ba%95%e7%9b%98.pdf) [[联盟赛英雄云台]](recources/project/RM/%e8%81%94%e7%9b%9f%e8%b5%9b%e8%8b%b1%e9%9b%84%e6%b5%8b%e8%af%95%e5%a4%b4pitch%e8%bd%b4.pdf) [[2.5摩擦英雄底盘优化]](recources/project/RM/2.5%e6%91%a9%e6%93%a6%e8%bd%ae%e8%8b%b1%e9%9b%84%e5%ba%95%e7%9b%98%e4%bc%98%e5%8c%96.pdf)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/RM.png" alt="英雄机器人" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🤖 国家（市）级大学生创业训练项目 - 多模态智能轮椅机器人
+
 **项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
 
 **主要职责**：
@@ -208,10 +221,19 @@ redirect_from:
 
 **相关资料**：
 [[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf) [[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/wheelchair.png" alt="智能轮椅" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🤖 重庆大学具身智能实验室 - 七自由度机械臂运动学
+
 **项目简介**：基于OpenArm机械臂的正逆运动学解算与性能测试
 
 **主要职责**：
@@ -228,10 +250,19 @@ redirect_from:
 
 **相关资料**：
 [[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🚗 自动控制原理 - 多模态台灯小桌宠
+
 **项目简介**：集成视觉、听觉、情绪交互的台灯桌宠
 
 **主要职责**：
@@ -244,10 +275,19 @@ redirect_from:
 
 **相关资料**：
 [[PPT]](recources/project/lamp/%e8%87%aa%e6%8e%a7%e9%a1%b9%e7%9b%ae-%e6%a1%8c%e5%ae%a0%e5%8f%b0%e7%81%af.pdf) [[技术报告]](recources/project/lamp/%e5%8f%b0%e7%81%af%e6%96%b9%e6%a1%88%e6%8a%a5%e5%91%8a_%e5%ae%8c%e5%96%84%e7%89%88.pdf) [[视频链接]](https://www.bilibili.com/video/BV1TezLBXEXA/?spm_id_from=333.1387.homepage.video_card.click)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🚗 大学生工程实践与创新能力大赛 - 智能救援组
+
 **项目简介**：在尺寸限制下设计一个具有自动、手动模式的智能救援机器人小车
 
 **主要职责**：
@@ -261,10 +301,19 @@ redirect_from:
 
 **相关资料**：
 [[技术文档]](recources/project/engineer/2025%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e4%b8%8e%e5%88%9b%e6%96%b0%e8%83%bd%e5%8a%9b%e5%a4%a7%e8%b5%9b-%e4%bb%bb%e5%8a%a1%e5%91%bd%e9%a2%98%e6%96%87%e6%a1%a3%e6%a8%a1%e6%9d%bf-%e6%99%ba%e8%83%bd%e6%95%91%e6%8f%b4%e8%b5%9b%e9%a1%b9.pdf) [[海报]](recources/project/engineer/%e6%99%ba%e8%83%bd%e6%95%91%e6%8f%b4%e6%b5%b7%e6%8a%a5.jpg)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/engineer.png" alt="救援机器人" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
-## 🎯 “畅跑呼吸”团队项目 - 明月湖科创基地创业项目
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
+## 🎯 "畅跑呼吸"团队项目 - 明月湖科创基地创业项目
+
 **项目简介**：针对跑步爱好者的痛点设计一款具有自动调节空气状况的硬件设备
 
 **主要职责**：
@@ -274,10 +323,19 @@ redirect_from:
 
 **项目成果**：
 - 团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元探索期阶段
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/business.png" alt="畅跑呼吸" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## 🎯 宁波XPotPark智能研究院冬令营 - 产品设计项目
+
 **项目简介**：口含式电动超声波牙刷  
 
 **主要职责**：
@@ -291,10 +349,19 @@ redirect_from:
 
 **相关资料**：
 [[汇报一]](recources/project/toothbrush/G11+%e7%ac%ac%e4%b8%89%e8%bd%ae%e6%b1%87%e6%8a%a5.pdf) [[汇报二]](recources/project/toothbrush/%e7%ac%ac%e4%b8%89%e7%bb%84-%e5%8f%a3%e5%90%ab%e5%bc%8f%e7%94%b5%e5%8a%a8%e7%89%99%e5%88%b7.pdf) [[展板]](recources/project/toothbrush/%e5%b1%95%e6%9d%bf.jpg)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/toothbrush.jpg" alt="电动牙刷" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
+
 ## ⚙️ 扫地机器人重制与升级 - 微电路设计 课程项目
+
 **项目简介**：对海尔TL30UI扫地机器人进行整体重制与功能扩展 
 
 **主要职责**：
@@ -304,10 +371,17 @@ redirect_from:
 
 **相关资料**：
 [[PPT]](https://www.canva.cn/design/DAG3nYPiED8/djN_Esle4dMuHpx_aUb35A/edit?utm_content=DAG3nYPiED8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/sweepfloor/%e5%be%ae%e7%94%b5%e8%b7%af%e8%ae%be%e8%ae%a1%e7%bb%93%e9%a1%b9%e6%8a%a5%e5%91%8a.pdf) [[视频链接]](https://www.bilibili.com/video/BV17PioBCErp/?spm_id_from=333.1387.homepage.video_card.click)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/sweepfloor.png" alt="扫地机器人" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
----
+<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## ⚙️ 斯特林发动机设计与制造 - Adams、Matlab 课程项目
+
 **项目简介**：γ型斯特林发动机的完整设计与仿真  
 
 **主要职责**：
@@ -317,5 +391,10 @@ redirect_from:
 
 **相关资料**：
 [[PPT]](https://www.canva.cn/design/DAGo65B5ZE4/Q4TUP6bT78ATlZTyYmljIQ/edit?utm_content=DAGo65B5ZE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/stirlingengine/%e9%83%9d%e5%8d%9a%e6%96%87-20234021-%e6%9c%80%e7%bb%88%e6%8a%a5%e5%91%8a.pdf)
+  </div>
+  <div style="flex:0 0 200px;">
+    <img src="/recources/pictures/stirling.png" alt="斯特林发动机" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 ---

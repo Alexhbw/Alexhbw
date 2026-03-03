@@ -170,7 +170,7 @@ redirect_from:
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:350px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>
@@ -198,7 +198,7 @@ redirect_from:
 **项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
 
 **主要职责**：
-- **嵌入式开发**：使用正点原子探索者（STM32F407ZGT6）与ADS1292模块设计了简易心电监测系统
+- **嵌入式开发**：使用正点原子探索者与ADS1292模块设计了用户心电监测系统
 - **视觉监测系统**：使用OpenMV视觉模块与DY_SV8F语音模块设计了环境监测与播报系统
 - **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
 
@@ -273,7 +273,7 @@ redirect_from:
 - **样机制作**：为原理样机确定技术路线，进行元器件的选型与PCB绘制
 
 **项目成果**：
-- 项目持续推进中，团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元探索期阶段
+- 团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元探索期阶段
 
 ---
 
@@ -300,7 +300,7 @@ redirect_from:
 **主要职责**：
 - **元器件选型**：基于扫地机器人的功能需求进行元器件与传感器的选型测试
 - **电路设计**：使用嘉立创EDA对机器人进行电路板的原理图设计与PCB绘制
-- **导航算法**：使用N10雷达搭配树莓派5实现扫地机器人的全局扫图与路径规划
+- **导航算法**：使用 N10 雷达搭配树莓派5实现扫地机器人的全局扫图与路径规划
 
 **相关资料**：
 [[PPT]](https://www.canva.cn/design/DAG3nYPiED8/djN_Esle4dMuHpx_aUb35A/edit?utm_content=DAG3nYPiED8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/sweepfloor/%e5%be%ae%e7%94%b5%e8%b7%af%e8%ae%be%e8%ae%a1%e7%bb%93%e9%a1%b9%e6%8a%a5%e5%91%8a.pdf) [[视频链接]](https://www.bilibili.com/video/BV17PioBCErp/?spm_id_from=333.1387.homepage.video_card.click)
@@ -312,8 +312,8 @@ redirect_from:
 
 **主要职责**：
 - **结构设计**：负责机械结构设计、制作及加工，完成物理样机
-- **热力学分析**：对气缸内气体的斯特林循环进行定量分析，根据输出功率要求迭代调整设计参数
-- **联合仿真**：将机械模型导入 Adams，结合 Simulink 进行耦合仿真，分析理论输出功率
+- **热力学分析**：对气缸内气体的斯特林循环进行定量分析，迭代调整设计参数
+- **联合仿真**：将模型导入 Adams，结合 Simulink 进行耦合仿真，分析理论输出功率
 
 **相关资料**：
 [[PPT]](https://www.canva.cn/design/DAGo65B5ZE4/Q4TUP6bT78ATlZTyYmljIQ/edit?utm_content=DAGo65B5ZE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/stirlingengine/%e9%83%9d%e5%8d%9a%e6%96%87-20234021-%e6%9c%80%e7%bb%88%e6%8a%a5%e5%91%8a.pdf)

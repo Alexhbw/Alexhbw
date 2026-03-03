@@ -147,7 +147,7 @@ redirect_from:
 
 # 💡 项目经历
 
-<div style="display: flex; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
   <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🤖 中国机器人大赛农业组 - 农业灌溉机器人
@@ -168,9 +168,9 @@ redirect_from:
 [[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
 
 </div>
-<div>
+<div style="display: flex; align-items: center; justify-content: center;">
 
-<img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:200px; height:auto;">
+<img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:300px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
 </div>
 </div>

@@ -202,10 +202,12 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 
     li {
-      display: table-cell;
+      display: inline-block;
       vertical-align: middle;
 
       &:first-child {
@@ -224,6 +226,7 @@
     }
 
     a {
+      margin: 0; /* reset per-item margin when using flex */
       position: relative;
 
       &:before {

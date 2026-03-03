@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 个人简介
-你好👋！我是一名来自江苏省苏州市的大三学生，就读于 重庆大学 国家卓越工程师学院 2023级明月科创实验班，中共预备党员，重庆大学优异生，学年综合测评成绩排名年级第五，总平均成绩87.03623分，GPA3.57；两年累计获国家级奖励5项、省市级9项、校级13项，获3次乙等综合奖学金；目前担任国家卓越工程师学院科协副会长与24级明月科创实验班《人因工效学》课程助教。
+你好👋！我是一名来自江苏省苏州市的大三学生，就读于 重庆大学 国家卓越工程师学院 2023级明月科创实验班，中共预备党员，重庆大学优异生，学年综合测评成绩排名年级第五，总平均成绩87.03623分，GPA3.57；两年累计获国家级奖励6项、省市级9项、校级13项，获3次乙等综合奖学金；目前担任国家卓越工程师学院科协副会长与24级明月科创实验班《人因工效学》课程助教。
 
 入学以来，累计志愿时长达到170个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得国家级优秀结项，担任过两学期学生助教，参与过两段暑期社会实践与三段实习，并曾在深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过三段实习，学习成绩与工作能力兼优。
 
@@ -42,7 +42,7 @@ redirect_from:
 - 雅思（备考中，预计2026年4月考试）
 - C、Python、C++、Matlab
 
-<br><br>
+<!-- <br><br> -->
 
 <span class='anchor' id='-zxkc'></span>
 
@@ -58,35 +58,37 @@ redirect_from:
 - 大一下学期（2024.2~2024.6） [[报告]](/recources/gxhsj/Report1B.pdf)  [[答辩]](/recources/gxhsj/PPT1B.pptx)
 - 大一上学期（2023.9~2024.1）
 
-<br><br>
+<!-- <br><br> -->
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 ### 竞赛类
-- *2025.10* 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖`  
-- *2024.02* 获得 2024年全国大学生机器人大赛ROBOCON `三等奖`
-- *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游寻宝组全国赛 `三等奖`  
-- *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游探险组全国赛 `三等奖`  
-- *2025.03* 获得 2025年Robomaster机甲大师机器人竞技赛西南赛区 `一等奖`
-- *2025.03* 获得 2025年Robomaster机甲大师联盟赛3V3对抗赛 `三等奖`  
+- *2025.10* 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `国家二等奖`  
+- *2024.02* 获得 2024年全国大学生机器人大赛ROBOCON `国家三等奖`
+- *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游寻宝组全国赛 `国家三等奖`  
+- *2025.10* 获得 2025年中国机器人大赛ROBOCUP旅游探险组全国赛 `国家三等奖`  
+- *2025.03* 获得 2025年Robomaster机甲大师机器人竞技赛西南赛区 `国家一等奖`
+- *2025.03* 获得 2025年Robomaster机甲大师联盟赛3V3对抗赛 `省三等奖`  
 - *2025.07* 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军`
 - *2025.07* 获得 2025中国机器人大赛重庆区域赛旅游探险组 `省冠军`
 - *2025.07* 获得 2025中国机器人大赛重庆区域赛旅游寻宝组 `省冠军`
-- *2025.08* 获得 2025“TI杯”全国大学生电子设计竞赛重庆赛区 `一等奖` 
-- *2024.11* 获得 2024年重庆市大学生工程实践与创新能力大赛智能救援 `二等奖`
-- *2025.08* 获得 2025年中国机器人大赛专项赛无人机挑战赛 `三等奖`
-- *2024.11* 获得 2024年重庆市大学生创新方法（TRIZ）大赛 `三等奖`
+- *2025.08* 获得 2025“TI杯”全国大学生电子设计竞赛重庆赛区 `省一等奖` 
+- *2024.11* 获得 2024年重庆市大学生工程实践与创新能力大赛智能救援 `省二等奖`
+- *2025.08* 获得 2025年中国机器人大赛专项赛无人机挑战赛 `省三等奖`
+- *2024.11* 获得 2024年重庆市大学生创新方法（TRIZ）大赛 `省三等奖`
 - *2025.01* 获得 2025年美国大学生数学建模大赛 `S奖`
-- *2024.11* 获得 2024年中国大学生信息素养大赛重庆赛区 `优胜奖`
-- *2024.10* 获得 2024年重庆大学VEX机器人竞技比赛 `一等奖`
-- *2024.11* 获得 2024年重庆大学物理学术竞赛（CUPT） `一等奖`
+- *2024.11* 获得 2024年中国大学生信息素养大赛重庆赛区 `省优胜奖`
+- *2024.10* 获得 2024年重庆大学VEX机器人竞技比赛 `校级一等奖`
+- *2024.11* 获得 2024年重庆大学物理学术竞赛（CUPT） `校级一等奖`
+- *2025.05* 获得 2025年重庆大学智能车竞赛缩微电磁组 `校级二等奖`
 
 ### 学生工作类
+- *2025.11* 获得 重庆大学`三好学生`
+- *2025.07* 获得 重庆大学`卓越助教奖`
 - *2025.03* 获得 重庆大学优秀学生综合素质测评`乙等奖学金`
 - *2025.09* 获得 重庆大学优秀学生综合素质测评`乙等奖学金`
-- *2025.07* 获得 重庆大学`卓越助教奖`
-- *2025.11* 获得 重庆大学`三好学生`
+- *2026.03* 获得 重庆大学优秀学生综合素质测评`乙等奖学金`
 
 ### 其它
 - *2026.01* 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项`
@@ -94,13 +96,13 @@ redirect_from:
 - *2025.07* 获得 深圳科创学院 `明星助教`
 - *2024.01* 获得 宁波XPotPark智能研究院冬令营 `优秀营员`
 
-<br><br>
+<!-- <br><br> -->
 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 ### 论文
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='images/sensors2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### 英文
@@ -123,7 +125,7 @@ redirect_from:
 - 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
 
 
-<br><br>
+<!-- <br><br> -->
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -139,12 +141,14 @@ redirect_from:
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
 
-<br><br>
+<!-- <br><br> -->
 
 <span class='anchor' id='-xmjl'></span>
 
 # 💡 项目经历
 
+<div style="display: flex; align-items: flex-start; gap: 1rem;">
+<div>
 ## 🤖 中国机器人大赛农业组 - 农业灌溉机器人
 
 **项目简介**：自主导航与精准灌溉的农业机器人系统
@@ -155,38 +159,19 @@ redirect_from:
 - **控制系统**：集成视觉传感器、显示屏、语音模块等，实现精准灌溉与信息播报
 
 **项目成果**：
-- 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖` [[国赛证书]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) [[技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf)
-- 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军` [[省赛证书]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) [[技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
+- 获得 2025年中国机器人大赛ROBOCUP农业灌溉组全国赛 `二等奖` [[国赛证书]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) 
+- 获得 2025中国机器人大赛重庆区域赛农业灌溉组 `省冠军` [[省赛证书]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf) 
 - 凭借舵轮设计进行一项 `专利申请`（申请中）
 
----
 
-## 🤖 国家（市）级大学生创业训练项目 - 多模态智能轮椅机器人
-**项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
+**相关资料**：
+[[省赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%ba%8c%e4%bb%a3.pdf) [[国赛技术文档]](recources/project/irrigation/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e7%8e%84%e6%ad%a6%e4%b8%80%e4%bb%a3.pdf)
 
-**主要职责**：
-- **嵌入式开发**：使用正点原子探索者（STM32F407ZGT6）与ADS1292模块设计了简易心电监测系统
-- **视觉监测系统**：使用OpenMV视觉模块与DY_SV8F语音模块设计了环境监测与播报系统
-- **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
-
-**项目成果**：
-- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) [[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf) [[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
-- 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》） [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf) 
-
----
-
-## 🤖 重庆大学具身智能实验室 - 七自由度机械臂运动学
-**项目简介**：基于OpenArm机械臂的正逆运动学解算与性能测试
-
-**主要职责**：
-- **运动学算法**：提纯与重构KDL机械臂运动学库，拆解核心算法
-- **硬件在环仿真**：使用重构的运动学库实现STM32直接控制ROS虚拟机械臂
-- **运动学库性能测试**：
-①使用Matlab拟合机械臂末端的目标轨迹与真实轨迹从而验证运动学解算精度
-②使用STM32F407的定时器记录机械臂单次解算时间从而得出计算效率
-
-**项目成果**：
-- 实验室项目（推进中） [[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+</div>
+<div>
+<img src="/recources/pictures/irrigation.png" alt="农业灌溉机器人" style="max-width:200px; height:auto;">
+</div>
+</div>
 
 ---
 
@@ -204,6 +189,43 @@ redirect_from:
 
 **相关资料**：
 [[撑杆履带向底盘]](recources/project/RM/%e6%92%91%e6%9d%86%e5%b1%a5%e5%b8%a6%e5%90%91%e5%ba%95%e7%9b%98.pdf) [[联盟赛英雄云台]](recources/project/RM/%e8%81%94%e7%9b%9f%e8%b5%9b%e8%8b%b1%e9%9b%84%e6%b5%8b%e8%af%95%e5%a4%b4pitch%e8%bd%b4.pdf) [[2.5摩擦英雄底盘优化]](recources/project/RM/2.5%e6%91%a9%e6%93%a6%e8%bd%ae%e8%8b%b1%e9%9b%84%e5%ba%95%e7%9b%98%e4%bc%98%e5%8c%96.pdf)
+
+---
+
+## 🤖 国家（市）级大学生创业训练项目 - 多模态智能轮椅机器人
+**项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
+
+**主要职责**：
+- **嵌入式开发**：使用正点原子探索者（STM32F407ZGT6）与ADS1292模块设计了简易心电监测系统
+- **视觉监测系统**：使用OpenMV视觉模块与DY_SV8F语音模块设计了环境监测与播报系统
+- **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
+
+**项目成果**：
+- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) 
+- 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》） [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf) 
+
+**相关资料**：
+[[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf) [[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
+
+---
+
+## 🤖 重庆大学具身智能实验室 - 七自由度机械臂运动学
+**项目简介**：基于OpenArm机械臂的正逆运动学解算与性能测试
+
+**主要职责**：
+- **运动学算法**：提纯与重构KDL机械臂运动学库，拆解核心算法
+- **硬件在环仿真**：使用重构的运动学库实现STM32直接控制ROS虚拟机械臂
+- **运动学库性能测试**：
+
+  ①使用Matlab拟合机械臂末端的目标轨迹与真实轨迹从而验证运动学解算精度
+
+  ②使用STM32F407的定时器记录机械臂单次解算时间从而得出计算效率
+
+**项目成果**：
+- 实验室项目（推进中） 
+
+**相关资料**：
+[[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ---
 

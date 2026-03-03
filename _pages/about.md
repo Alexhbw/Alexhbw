@@ -170,7 +170,7 @@ redirect_from:
 - **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
 
 **项目成果**：
-- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) [[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf)[[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
+- 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) [[结项答辩]](recources/project/wheelchair/%e5%a4%9a%e6%a8%a1%e6%80%81%e6%99%ba%e8%83%bd%e8%bd%ae%e6%a4%85%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%bb%93%e9%a2%98.pdf) [[结题报告]](recources/project/wheelchair/%e7%bb%93%e9%a2%98%e6%8a%a5%e5%91%8a.docx)
 - 发表 `ICCEIC会议论文`一篇（《基于ADS1292模块的心率检测系统》） [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[下载]](recources/paper/Heart_Rate_Detection_System_Based_on_ADS1292_Module.pdf) 
 
 ---
@@ -191,16 +191,19 @@ redirect_from:
 ---
 
 ## 🚗 重庆大学Robomaster千里战队 - 英雄机器人结构设计
-**项目简介**：作为英雄组机械设计了25赛季英雄机器人底盘、云台与测试框架
+**项目简介**：作为英雄组机械设计了25赛季英雄机器人底盘、云台与测试弹舱
 
 **主要职责**：
-- **测试框架**：为步兵机器人发射机构设计了Yaw轴与测试框架
+- **测试框架**：为步兵机器人发射机构设计了同步带Yaw轴、弹舱与测试框架
 - **英雄底盘**：设计了满足25赛季爬坡与上台阶需求的英雄机器人底盘
 - **连杆云台**：为英雄机器人设计了连杆驱动的云台，Yaw轴与Pitch轴
 
 **项目成果**：
-- *2025.03* 获得 2025年Robomaster机甲大师机器人竞技赛西南赛区 `一等奖`
-- *2025.03* 获得 2025年Robomaster机甲大师联盟赛3V3对抗赛 `三等奖`
+- *2025.03* 获得 2025年Robomaster机甲大师机器人竞技赛西南赛区 `一等奖` [[获奖证书]](recources/project/RM/RMUL+2025%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%ab%9e%e6%8a%80%e5%a5%96-3V3%e5%af%b9%e6%8a%97%e8%b5%9b_631.png)
+- *2025.03* 获得 2025年Robomaster机甲大师联盟赛3V3对抗赛 `三等奖` [[获奖证书]](recources/project/RM/RM%e8%81%94%e7%9b%9f%e8%b5%9b.pdf)
+
+**相关资料**：
+[[撑杆履带向底盘]](recources/project/RM/%e6%92%91%e6%9d%86%e5%b1%a5%e5%b8%a6%e5%90%91%e5%ba%95%e7%9b%98.pdf) [[联盟赛英雄云台]](recources/project/RM/%e8%81%94%e7%9b%9f%e8%b5%9b%e8%8b%b1%e9%9b%84%e6%b5%8b%e8%af%95%e5%a4%b4pitch%e8%bd%b4.pdf) [[2.5摩擦英雄底盘优化]](recources/project/RM/2.5%e6%91%a9%e6%93%a6%e8%bd%ae%e8%8b%b1%e9%9b%84%e5%ba%95%e7%9b%98%e4%bc%98%e5%8c%96.pdf)
 
 ---
 
@@ -213,7 +216,10 @@ redirect_from:
 - **机械设计**：独立设计了基于大疆GM6020云台电机的双自由度云台与整机建模
 
 **项目成果**：
-- 获得 2025“TI杯”全国大学生电子设计竞赛重庆赛区 `一等奖`
+- 获得 2025“TI杯”全国大学生电子设计竞赛重庆赛区 `一等奖` [[获奖证书]](recources/project/lamp/%e7%94%b5%e8%b5%9b%e8%af%81%e4%b9%a6.jpg)
+
+**相关资料**：
+[[PPT]](recources/project/lamp/%e8%87%aa%e6%8e%a7%e9%a1%b9%e7%9b%ae-%e6%a1%8c%e5%ae%a0%e5%8f%b0%e7%81%af.pdf) [[技术报告]](recources/project/lamp/%e5%8f%b0%e7%81%af%e6%96%b9%e6%a1%88%e6%8a%a5%e5%91%8a_%e5%ae%8c%e5%96%84%e7%89%88.pdf) [[视频链接]](https://www.bilibili.com/video/BV1TezLBXEXA/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
 
@@ -222,12 +228,15 @@ redirect_from:
 
 **主要职责**：
 - **机械设计**：历经四次迭代，设计出二轮差速/三全向轮/四全向轮底盘与夹爪结构
+- **视觉算法**：使用Maixcam视觉传感器完成对小球的识别与跟随
 - **海报制作**：使用PS完成海报的设计与制作
-- **操作手**：作为比赛中手动模式的操作手操控机器人完成任务
 
 **项目成果**：
-- 获得 2024年重庆市大学生工程实践与创新能力大赛智能救援 `二等奖`
-- 获得 2024年重庆大学工程实践与创新能力大赛校赛智能救援 `银奖`
+- 获得 2024年重庆市大学生工程实践与创新能力大赛智能救援 `二等奖` [[获奖证书]](recources/project/engineer/%e5%b7%a5%e5%88%9b%e8%b5%9b%e7%9c%81%e4%ba%8c.pdf)
+- 获得 2024年重庆大学工程实践与创新能力大赛校赛智能救援 `银奖` [[获奖证书]](recources/project/engineer/%e5%b7%a5%e5%88%9b%e8%b5%9b%e6%a0%a1%e7%ba%a7%e9%93%b6%e5%a5%96.pdf)
+
+**相关资料**：
+[[技术文档]](recources/project/engineer/2025%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e5%b7%a5%e7%a8%8b%e5%ae%9e%e8%b7%b5%e4%b8%8e%e5%88%9b%e6%96%b0%e8%83%bd%e5%8a%9b%e5%a4%a7%e8%b5%9b-%e4%bb%bb%e5%8a%a1%e5%91%bd%e9%a2%98%e6%96%87%e6%a1%a3%e6%a8%a1%e6%9d%bf-%e6%99%ba%e8%83%bd%e6%95%91%e6%8f%b4%e8%b5%9b%e9%a1%b9.pdf) [[海报]](recources/project/engineer/%e6%99%ba%e8%83%bd%e6%95%91%e6%8f%b4%e6%b5%b7%e6%8a%a5.jpg)
 
 ---
 
@@ -240,7 +249,7 @@ redirect_from:
 - **样机制作**：为原理样机确定技术路线，进行元器件的选型与PCB绘制
 
 **项目成果**：
-- 项目持续推进中，团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元种子轮阶段
+- 项目持续推进中，团队已通过 明月湖科创基地 的10万元阶段立项，目前处于50万元探索期阶段
 
 ---
 
@@ -254,7 +263,10 @@ redirect_from:
 - 视频剪辑、海报设计
 
 **项目成果**：
-- 获得 2024年宁波XPotPark智能研究院冬令营 `优秀营员`
+- 获得 2024年宁波XPotPark智能研究院冬令营 `优秀营员` [[证书]](recources/project/toothbrush/%e5%ae%81%e6%b3%a2%e5%86%ac%e4%bb%a4%e8%90%a5%e8%af%81%e4%b9%a6.jpg)
+
+**相关资料**：
+[[汇报一]](recources/project/toothbrush/G11+%e7%ac%ac%e4%b8%89%e8%bd%ae%e6%b1%87%e6%8a%a5.pdf) [[汇报二]](recources/project/toothbrush/%e7%ac%ac%e4%b8%89%e7%bb%84-%e5%8f%a3%e5%90%ab%e5%bc%8f%e7%94%b5%e5%8a%a8%e7%89%99%e5%88%b7.pdf) [[展板]](recources/project/toothbrush/%e5%b1%95%e6%9d%bf.jpg)
 
 ---
 
@@ -264,7 +276,10 @@ redirect_from:
 **主要职责**：
 - **元器件选型**：基于扫地机器人的功能需求进行元器件与传感器的选型测试
 - **电路设计**：使用嘉立创EDA对机器人进行电路板的原理图设计与PCB绘制
-- **焊接测试**：对发加工的PCB进行焊接、测试与迭代升级
+- **导航算法**：使用N10雷达搭配树莓派5实现扫地机器人的全局扫图与路径规划
+
+**相关资料**：
+[[PPT]](https://www.canva.cn/design/DAG3nYPiED8/djN_Esle4dMuHpx_aUb35A/edit?utm_content=DAG3nYPiED8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/sweepfloor/%e5%be%ae%e7%94%b5%e8%b7%af%e8%ae%be%e8%ae%a1%e7%bb%93%e9%a1%b9%e6%8a%a5%e5%91%8a.pdf) [[视频链接]](https://www.bilibili.com/video/BV17PioBCErp/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
 
@@ -275,5 +290,8 @@ redirect_from:
 - **结构设计**：负责机械结构设计、制作及加工，完成物理样机
 - **热力学分析**：对气缸内气体的斯特林循环进行定量分析，根据输出功率要求迭代调整设计参数
 - **联合仿真**：将机械模型导入 Adams，结合 Simulink 进行耦合仿真，分析理论输出功率
+
+**相关资料**：
+[[PPT]](https://www.canva.cn/design/DAGo65B5ZE4/Q4TUP6bT78ATlZTyYmljIQ/edit?utm_content=DAGo65B5ZE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [[技术文档]](recources/project/stirlingengine/%e9%83%9d%e5%8d%9a%e6%96%87-20234021-%e6%9c%80%e7%bb%88%e6%8a%a5%e5%91%8a.pdf)
 
 ---

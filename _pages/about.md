@@ -213,9 +213,9 @@ redirect_from:
 **项目简介**：集成视觉、听觉、健康监测系统的轮椅机器人
 
 **主要职责**：
-- **嵌入式开发**：使用正点原子探索者与ADS1292模块设计了用户心电监测系统
-- **视觉监测系统**：使用OpenMV视觉模块与DY_SV8F语音模块设计了环境监测与播报系统
-- **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行了设计与建模
+- **嵌入式开发**：使用正点原子探索者与ADS1292模块设计用户心电监测系统
+- **视觉监测系统**：使用OpenMV视觉模块与DY_SV8F语音模块设计环境监测与播报系统
+- **机械设计**：独立对轮椅机器人的整体机械结构与局部模块进行设计与建模
 
 **项目成果**：
 - 获得 重庆大学2025年第二批大学生创业训练项目 `国家级优秀结项` [[证明]](recources/project/wheelchair/%e5%9b%bd%e5%b8%82%e5%88%9b%e7%bb%93%e9%a2%98%e6%88%90%e6%9e%9c.xlsx) 
@@ -257,7 +257,7 @@ redirect_from:
 [[技术文档]](recources/project/openarm/%e6%8a%80%e6%9c%af%e6%96%87%e6%a1%a3%ef%bc%9a%e6%9c%ba%e6%a2%b0%e8%87%82.pdf) [[答辩]](https://www.canva.cn/design/DAG9z3NYTLE/bVYEyEEiKY2FublAuxSCPw/edit?utm_content=DAG9z3NYTLE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 </div>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 100%; max-width: 300px;">
 
 <img src="/recources/pictures/openarm.png" alt="机械臂" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
@@ -285,7 +285,7 @@ redirect_from:
 [[PPT]](recources/project/lamp/%e8%87%aa%e6%8e%a7%e9%a1%b9%e7%9b%ae-%e6%a1%8c%e5%ae%a0%e5%8f%b0%e7%81%af.pdf) [[技术报告]](recources/project/lamp/%e5%8f%b0%e7%81%af%e6%96%b9%e6%a1%88%e6%8a%a5%e5%91%8a_%e5%ae%8c%e5%96%84%e7%89%88.pdf) [[视频链接]](https://www.bilibili.com/video/BV1TezLBXEXA/?spm_id_from=333.1387.homepage.video_card.click)
 
 </div>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 100%; max-width: 300px;">
 
 <img src="/recources/pictures/lamp.png" alt="台灯小桌宠" style="max-width:250px; height:auto; margin: 0 auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 

@@ -2,7 +2,7 @@
 permalink: /en/
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 ---
 
 {% if site.google_scholar_stats_use_cdn %}

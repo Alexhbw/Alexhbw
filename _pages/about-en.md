@@ -19,7 +19,7 @@ Hello 👋! I am Hao Bowen, a junior student from Suzhou, Jiangsu Province, stud
 
 Since enrollment, I have accumulated 170 hours of volunteer service, actively participated in technological innovation and social practice. I led teams to receive `national-level excellent project completion` in undergraduate innovation and entrepreneurship projects, `served as a student teaching assistant for two semesters`, participated in `two summer social practices` and `three internships`. I have interned at Shenzhen Innovation Academy, Mingyuehu Innovation and Industrial Base, and Xbotics Embodied Intelligence Community. I excel in both academic performance and work ability.
 
-Currently researching redundant robotic arm kinematics at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026.
+Currently researching redundant robotic arm kinematics at Chongqing University's Embodied Intelligence Laboratory. The "Chanpao Breathing" team, which I am a core member of, has passed the `RMB 100,000 staged funding approval` from Mingyuehu International Smart Industrial Innovation Base. I will participate in one semester of exchange learning at `Singapore University of Technology and Design` starting in September 2026[[Study Plan ]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e8%8b%b1%e6%96%87%e7%89%88%ef%bc%89.pdf).
 
 ## My Personal Skills Include:
 - Mechanical Modeling (Fusion360, Solidworks, Machining, Assembly, etc.)

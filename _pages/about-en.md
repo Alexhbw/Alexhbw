@@ -97,7 +97,7 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 # 📝 Publications and Patents
 
 ### Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='images/sensors2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### English

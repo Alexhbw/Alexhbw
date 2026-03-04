@@ -127,9 +127,10 @@ Currently researching redundant robotic arm kinematics at Chongqing University's
 
 # 💡 Projects
 
-[Note: Project details would be similar translations of the Chinese version. For brevity, I've included the structure. You can expand with full translations of each project.]
-
 ---
+
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;">
+  <div markdown="1" style="flex:1; min-width:0; overflow-wrap: break-word;">
 
 ## 🤖 China Robot Competition Agricultural Group - Agricultural Irrigation Robot
 

@@ -34,8 +34,9 @@ redirect_from:
 - 物理与机械仿真（Matlab，ADMAS，Unity）
 - 大模型部署与微调（场景适配与模型调用）
 - UI界面与小程序制作（Matlab，微信）
+- 网页开发与制作（HTML，CSS，JavaScript）
 - 视频剪辑（剪映，Photoshop）
-  
+
 
 ## 我的语言包括：
 - 大学生英语四级/六级
@@ -105,7 +106,7 @@ redirect_from:
 
 # 📝 论文专利
 ### 论文
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='images/sensors2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCEIC 2025</div><img src='/images/sensors2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### 英文
@@ -124,10 +125,16 @@ redirect_from:
 
 
 ### 专利
-<div class='paper-box'><div class='paper-box-image'><div><img src='recources/patent/patent.png' alt="专利" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/recources/patent/patent.png' alt="专利" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+### 中文
+---
 - 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
+
+### 英文
+---
+- Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
 
 </div>
 </div>

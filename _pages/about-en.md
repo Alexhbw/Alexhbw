@@ -114,7 +114,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 </div>
 
 ### Patents
-<div class='paper-box'><div class='paper-box-image'><div><img src='recources/patent/patent.png' alt="Patent" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/recources/patent/patent.png' alt="Patent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Jingquan Hong, `Bowen Hao`, Hemei Sun, Qian Yang, Benben Ren, Jinhong Chang, Qidong Sun, Jiangtao Zhao. A Driving Steering Wheel. [[Acceptance Notice]](recources/patent/CN2255429_Application.pdf) [[Application Document]](recources/patent/document.pdf)

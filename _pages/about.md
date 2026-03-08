@@ -20,7 +20,7 @@ redirect_from:
 # 📖 个人简介
 你好👋！我是郝博文，一名来自江苏省苏州市的大三学生，就读于 重庆大学 国家卓越工程师学院 2023级明月科创实验班，中共预备党员，重庆大学优异生，学年综合测评成绩排名年级第五，总平均成绩`87.03623`分，GPA`3.57`；两年累计获`国家级奖励6项`、`省市级9项`、`校级13项`，获3次乙等综合奖学金；目前担任国家卓越工程师学院科协副会长与24级明月科创实验班《人因工效学》课程助教。
 
-入学以来，累计志愿时长达到170个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得`国家级优秀结项`，担任过`两学期学生助教`，参与过`两段暑期社会实践`，并曾在深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过`三段实习`，学习成绩与工作能力兼优。
+入学以来，累计志愿时长达到202个小时，积极参与科技创新与社会实践，在大学生创新创业项目中带领团队获得`国家级优秀结项`，担任过`四门课程的学生助教`，参与过`两段暑期社会实践`，并曾在深圳科创学院、明月湖科创产业基地、Xbotics具身智能社区中有过`三段实习`，学习成绩与工作能力兼优。
 
 目前我在重庆大学具身智能实验室研究冗余机械臂运动学与深度强化学习；我担任核心成员的 畅跑呼吸团队 已通过 明月湖国际智能产业科创基地 的`10万元阶段立项`；我将于2026年9月前往 `新加坡科技设计大学` 参与一学期的交换学习 [[学习计划]](recources/project/%e5%ad%a6%e4%b9%a0%e8%ae%a1%e5%88%92%ef%bc%88%e4%b8%ad%e6%96%87%e7%89%88%ef%bc%89.pdf)。 
 
@@ -124,8 +124,13 @@ redirect_from:
 
 
 ### 专利
----
+<div class='paper-box'><div class='paper-box-image'><div><img src='recources/patent/patent.png' alt="专利" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - 洪竞权, `郝博文`,孙鹤梅,杨倩,任奔奔,常锦宏,孙奇栋,赵江涛. 一种驱动舵轮. [[受理通知书]](recources/patent/CN2255429_Application.pdf) [[申请文件]](recources/patent/document.pdf)
+
+</div>
+</div>
 
 
 <!-- <br><br> -->
@@ -133,9 +138,9 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州 [[下载实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[社区官网]](https://xbotics-embodied.site/)
-- *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳 [[下载实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
-- *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆 [[下载实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[产品介绍]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[产品链接]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
+- *2025.09.01 - 2025.12.01*, Xbotics具身智能社区, 杭州 [[实习证明]](recources/practise/XBotics%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.jpg) [[社区官网]](https://xbotics-embodied.site/)
+- *2025.07.01 - 2025.07.30*, 深圳科创学院, 深圳 [[实习证明]](recources/practise/%e6%b7%b1%e5%9c%b3%e7%a7%91%e5%88%9b%e8%90%a5%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf)
+- *2024.10.01 - 2025.01.20*, 重庆晨之越科技有限公司（明月湖国际智能产业基地）, 重庆 [[实习证明]](recources/practise/%e6%98%8e%e6%9c%88%e6%b9%96%e5%ae%9e%e4%b9%a0%e8%af%81%e6%98%8e.pdf) [[产品介绍]](https://mp.weixin.qq.com/s/rw-SHuAUsXeqt9dStMyGkA) [[产品链接]](https://item.taobao.com/item.htm?abbucket=2&id=1019787539715&loginBonus=1&mi_id=0000_9jaC7fOu4veD5se2wkAouzScuBMU5v87Z89UTvhXdo&ns=1&priceTId=214784e317729938836064119e1135&skuId=6032531817190&spm=a21n57.sem.item.21.6d063903HN3oHH&utparam=%7B%22aplus_abtest%22%3A%22be60e5bfe50cc29d131241bd076445a3%22%7D&xxc=taobaoSearch)
 
 <!-- <span class='anchor' id='-xshy'></span>
 

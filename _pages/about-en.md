@@ -52,7 +52,6 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - Spring 2025 (2025.2~2025.6) [[Report]](/recources/gxhsj/Report2B.pdf) [[Defense]](/recources/gxhsj/PPT2B.pptx)
 - Fall 2024 (2024.9~2025.1) [[Report]](/recources/gxhsj/Report2A.pdf) [[Defense]](/recources/gxhsj/PPT2A.pptx)
 - Spring 2024 (2024.2~2024.6) [[Report]](/recources/gxhsj/Report1B.pdf) [[Defense]](/recources/gxhsj/PPT1B.pptx)
-- Fall 2023 (2023.9~2024.1)
 
 ---
 
@@ -61,7 +60,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 # 🏅 Awards and Honors
 
 ### Competition Awards
-- *2025.10* China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals  `National Second Prize`
+- *2025.10* China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals  `National First Prize`
 - *2024.02* 2024 National University Robot Competition ROBOCON  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Treasure Hunt Group National Finals  `National Third Prize`
 - *2025.10* China Robot Competition ROBOCUP Tourism Adventure Group National Finals  `National Third Prize`
@@ -71,10 +70,10 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - *2025.07* 2025 China Robot Competition Chongqing Regional Tourism Adventure Group  `Provincial Champion`
 - *2025.07* 2025 China Robot Competition Chongqing Regional Tourism Treasure Hunt Group  `Provincial Champion`
 - *2025.08* 2025 "TI Cup" National University Student Electronic Design Competition Chongqing Division  `Provincial First Prize`
+- *2025.01* 2025 American College Student Mathematical Modeling Competition  `Meritorious Winner`
 - *2024.11* 2024 Chongqing University Student Engineering Practice and Innovation Ability Competition Smart Rescue  `Provincial Second Prize`
 - *2025.08* 2025 China Robot Competition Special Events Drone Challenge  `Provincial Third Prize`
 - *2024.11* 2024 Chongqing University Student Innovation Method (TRIZ) Competition  `Provincial Third Prize`
-- *2025.01* 2025 American College Student Mathematical Modeling Competition  `S Prize`
 - *2024.11* 2024 Chinese University Student Information Literacy Competition Chongqing Division  `Provincial Excellence Award`
 - *2024.10* 2024 Chongqing University VEX Robot Competition  `School First Prize`
 - *2024.11* 2024 Chongqing University Physics Academic Competition (CUPT)  `School First Prize`
@@ -153,7 +152,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 - **Control System**: Integrated vision sensors, display screens, and voice modules for precise irrigation and information broadcast
 
 **Project Results**:
-- 2025 China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals - `Second Prize` [[Certificate]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf)
+- 2025 China Robot Competition ROBOCUP Agricultural Irrigation Group National Finals - `First Prize` [[Certificate]](recources/project/irrigation/2025%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8RoboCup%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%ef%bc%88%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e8%b5%9b%e5%8c%ba%ef%bc%89-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%88%e6%80%bb%e5%86%b3%e8%b5%9b%ef%bc%89-Y2509T1450174-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf)
 - 2025 China Robot Competition Chongqing Regional Agricultural Irrigation Group - `Provincial Champion` [[Certificate]](recources/project/irrigation/2025+%e4%b8%ad%e5%9b%bd%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b5%9b%e6%9a%a8+RoboCup+%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%96%e7%95%8c%e6%9d%af%e4%b8%ad%e5%9b%bd%e8%b5%9b%e5%ba%86%e5%8c%ba%e5%9f%9f%e8%b5%9b-%e5%86%9c%e4%b8%9a%e6%9c%ba%e5%99%a8%e4%ba%ba-%e8%8a%82%e6%b0%b4%e7%81%8c%e6%ba%89%e6%9c%ba%e5%99%a8%e4%ba%ba-Y2507T0740378-%e4%b8%87%e9%87%8c%e6%88%98%e9%98%9f%e8%8e%b7%e5%a5%96%e8%af%81%e4%b9%a6.pdf)
 - Filed a patent application based on steering wheel design
 

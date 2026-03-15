@@ -235,7 +235,7 @@ Currently researching redundant robotic arm kinematics and Deep Reinforcement Le
 **Project Overview**: Kinematics Calculation and Trajectory Planning Based on OpenArm Manipulator
 
 **Main Responsibilities**:
-- **Kinematics Algorithm**: Purified and restructured KDL robotic arm kinematics library, analyzed core algorithms
+- **Kinematics Algorithm**: Purification and Reconstruction of the KDL Robotic Arm Kinematics Library and Decomposition and Optimization of Core Algorithms
 - **Hardware-in-Loop Simulation**: The self-developed kinematics library is used to realize direct control of the Rviz virtual manipulator by STM32
 - **Kinematics Library Performance Testing**: 
 
